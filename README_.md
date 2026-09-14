@@ -46,7 +46,7 @@ Catalogação centralizada via **AWS Glue Data Catalog** (`bronze_db`, `silver_d
 
 ```
 ├── Arquivos brutos Data Hackers - Kaggle/   # CSVs originais das 3 edições da pesquisa
-├── Relatório/                                # Relatório executivo (.docx) com storytelling e recomendações
+├── Relatório/                                # Relatório executivo (.pdf) com storytelling e recomendações
 ├── Desenho de arquitetura/                   # Diagrama da solução AWS (Draw.io)
 └── Notebooks/
     ├── Tech_Challenge_Fase3_01_ETL_Bronze_Silver.py       # Glue Job PySpark: ingestão e tratamento
@@ -64,15 +64,7 @@ Catalogação centralizada via **AWS Glue Data Catalog** (`bronze_db`, `silver_d
 - **Storytelling de dados**: tradução de indicadores técnicos em recomendações estratégicas para tomada de decisão executiva
 - **Rigor de dados**: auditoria de rastreabilidade ponta a ponta — todo número do relatório executivo é reproduzível a partir do código-fonte
 
-## 👥 Equipe
 
-| Nome | RM |
-|---|---|
-| Alana Barreto Gonçalves Sugiyama | RM374058 |
-| Juliana de Souza Almeida | RM372677 |
-| Nathalia Melo Moreira | RM370292 |
-| Ruan Vitor Scherer | RM372856 |
-| Thalyta Cardoso De Oliveira | RM370532 |
 
 ---
 
